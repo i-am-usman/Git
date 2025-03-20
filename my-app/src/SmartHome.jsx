@@ -23,7 +23,7 @@ function SmartHome(){
             setLights("On");
             setTemp(22);
             setFan("on");
-            console.log(" clicked")
+            console.log(" Clicked")
         }
     },[enter]);
    
